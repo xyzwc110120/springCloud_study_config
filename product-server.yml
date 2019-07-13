@@ -1,7 +1,2 @@
 server:
-  port: 8100
-
-
-spring:
-  application:
-    name: product-server
+  port: 8101
