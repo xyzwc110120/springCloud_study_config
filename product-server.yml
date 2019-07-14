@@ -2,4 +2,4 @@ server:
   port: 8100
 
 
-hello: product-server8100
+hello: product-server8101
