@@ -2,4 +2,4 @@ server:
   port: 8110
 
 
-hello: order-server8111
+hello: order-server8110
