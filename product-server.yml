@@ -1,2 +1,5 @@
 server:
-  port: 8101
+  port: 8100
+
+
+hello: product-server
